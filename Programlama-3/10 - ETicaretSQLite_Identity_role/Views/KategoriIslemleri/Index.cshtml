@@ -1,0 +1,42 @@
+@model IEnumerable<ETicaret.Models.Kategori>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-info jumbotron">Kategori Yönetimi</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-info"><i class="fas fa-plus"></i> Yeni Kategori</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Adi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aciklama)
+            </th>
+            <th>Kategori İşlemleri</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aciklama)
+            </td>
+            <td>
+                <a class="btn btn-outline-secondary btn-sm" asp-action="Edit" asp-route-id="@item.Id"><i class="far fa-edit"></i> Düzenle</a>
+                <a class="btn btn-outline-secondary btn-sm"  asp-action="Details" asp-route-id="@item.Id"><i class="far fa-file-alt"></i> Detay</a>
+                <a class="btn btn-outline-danger btn-sm"  asp-action="Delete" asp-route-id="@item.Id"><i class="far fa-trash-alt"></i> Sil</a>
+                <a class="btn btn-outline-primary mx-3 btn-sm" asp-controller="UrunIslemleri" asp-action="KategorininUrunleri" asp-route-id="@item.Id"><i class="fas fa-barcode"></i> Ürün Yönetimi</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

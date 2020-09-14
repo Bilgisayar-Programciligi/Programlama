@@ -1,0 +1,53 @@
+@model IEnumerable<ETicaret.Models.Urun>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="jumbotron">
+    <h1 class="text-primary">Ürün Yönetimi</h1>
+    <h6 class="text-danger">(@ViewBag.KategoriAdi)</h6>
+</div>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-primary" asp-route-id="@ViewBag.KategoriId"><i class="fas fa-plus"></i> Ürün Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Resim</th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aciklama)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fiyat)
+            </th>
+            <th>Ürün İşlemleri</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td><img src="\resimler\@item.Resimler.FirstOrDefault()?.DosyaAdi" style="height: 50px;"></td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aciklama)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fiyat)
+            </td>
+            <td>
+                <a class="btn btn-outline-secondary btn-sm" asp-action="Edit" asp-route-id="@item.Id"><i class="far fa-edit"></i> Düzenle</a>
+                <a class="btn btn-outline-secondary btn-sm"  asp-action="Details" asp-route-id="@item.Id"><i class="far fa-file-alt"></i> Detay</a>
+                <a class="btn btn-outline-danger btn-sm"  asp-action="Delete" asp-route-id="@item.Id"><i class="far fa-trash-alt"></i> Sil</a>
+                <a class="btn btn-outline-info btn-sm ml-3"  asp-action="KategorileriniAyarla" asp-route-id="@item.Id"><i class="fas fa-list"></i> Kategorileri</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
