@@ -1,0 +1,16 @@
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.exe.config
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\bin\Debug\DijitalSaat.pdb
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.csprojResolveAssemblyReference.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\Display.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\MainWindow.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\App.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat_MarkupCompile.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat_MarkupCompile.lref
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\Display.baml
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\MainWindow.baml
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.g.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.Properties.Resources.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.csproj.GenerateResource.Cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\DijitalSaat\DijitalSaat\obj\Debug\DijitalSaat.pdb
