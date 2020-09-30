@@ -1,0 +1,14 @@
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\bin\Debug\XAMLDiliveKontroller.exe.config
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\bin\Debug\XAMLDiliveKontroller.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\bin\Debug\XAMLDiliveKontroller.pdb
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.csprojResolveAssemblyReference.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\MainWindow.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\App.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller_MarkupCompile.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller_MarkupCompile.lref
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\MainWindow.baml
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.g.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.Properties.Resources.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.csproj.GenerateResource.Cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\XAMLDiliveKontroller\XAMLDiliveKontroller\obj\Debug\XAMLDiliveKontroller.pdb

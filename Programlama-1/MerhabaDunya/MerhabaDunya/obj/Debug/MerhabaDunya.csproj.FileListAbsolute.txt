@@ -1,0 +1,14 @@
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.exe.config
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.pdb
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.csprojResolveAssemblyReference.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MainWindow.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\App.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya_MarkupCompile.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya_MarkupCompile.lref
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MainWindow.baml
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.g.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.Properties.Resources.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.GenerateResource.Cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\ProgramlamaTemelleri\NO_B\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.pdb

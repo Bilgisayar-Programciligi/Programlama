@@ -1,0 +1,14 @@
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe.config
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.pdb
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\MainWindow.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\App.g.cs
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu_MarkupCompile.cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu_MarkupCompile.lref
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\MainWindow.baml
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.g.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Properties.Resources.resources
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.GenerateResource.Cache
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.exe
+C:\Users\erkan\OneDrive\Belgeler\Visual Studio 2017\Projects\2016\Bahar\Programlama_I\NO_B\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.pdb
