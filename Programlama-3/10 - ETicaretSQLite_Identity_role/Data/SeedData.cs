@@ -5,12 +5,14 @@ using ETicaret.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 
 namespace ETicaret.Data
 {
     public static class SeedData
     {
-        public static void Initialize(IServiceProvider serviceProvider)
+        public async static void Initialize(IServiceProvider serviceProvider)
         {
             Console.WriteLine("Çekirdek veriler yazılıyor...");
 
@@ -26,6 +28,30 @@ namespace ETicaret.Data
                 {
                     return;   // Hiç bir şey yapmadan çık. Çünkü veritabanı zaten tohumlanmış.
                 }
+                
+                //tohum rol
+                var roleManager = serviceProvider.GetRequiredService<RoleManager<AppRole>>();
+                await roleManager.CreateAsync(new AppRole{Name="Admin"});
+                await roleManager.CreateAsync(new AppRole{Name="Manager"});
+                await roleManager.CreateAsync(new AppRole{Name="Member"});
+
+                // user tohumlamaya başlıyoruz
+                var adminberkay = new AppUser{UserName="biproberkay@gmail.com", Email="biproberkay@gmail.com", EmailConfirmed=true};
+                var managerberkay = new AppUser{UserName="managerberkay@gmail.com", Email="managerberkay@gmail.com", EmailConfirmed=true};
+                var memberberkay = new AppUser{UserName="memberberkay@gmail.com", Email="memberberkay@gmail.com", EmailConfirmed=true};
+                var userManager =serviceProvider.GetRequiredService<UserManager<AppUser>>();
+                // oluşturulan appuser instance lari usermanager a verip identity yapısı için bir user oluşturuyoruz. 
+                // identity sisteminde ancak usermanager klasından kullanıcı oluşturulabiliyor. 
+                await userManager.CreateAsync(adminberkay,"Qaz123+");
+                await userManager.CreateAsync(managerberkay,"Qaz123+");
+                await userManager.CreateAsync(memberberkay,"Qaz123+");
+                // user a rol atama işlemini tohumluyoruz...⏬
+                await userManager.AddToRoleAsync(adminberkay,"Admin");//bu bir komut
+                await userManager.AddToRoleAsync(managerberkay,"Manager");//bu bir komut
+                await userManager.AddToRoleAsync(memberberkay,"Member");//bu bir komut
+                
+                
+
 
                 var urunler = new Urun[]
                 {
