@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<AppUser> SignInManager
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -28,6 +32,12 @@
                        <form class="form-inline">
                             <a class="btn btn-outline-info btn-sm mx-3" asp-area="" asp-controller="KategoriIslemleri" asp-action="Index"><i class="fas fa-sitemap"></i> Kategori Yönetimi</a>
                             <a class="btn btn-outline-primary btn-sm" asp-area="" asp-controller="UrunIslemleri" asp-action="Index"><i class="fas fa-barcode"></i> Ürün Yönetimi</a>
+                            @* @if (SignInManager.IsSignedIn(User)) *@
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <a class="btn btn-outline-danger btn-sm ml-3" asp-area="" asp-controller="KullaniciIslemleri" asp-action="Index">
+                                    <i class="fas fa-barcode"></i> Kullanıcı Yönetimi</a>
+                            }
                        </form>
                     </ul>
                 </div>
