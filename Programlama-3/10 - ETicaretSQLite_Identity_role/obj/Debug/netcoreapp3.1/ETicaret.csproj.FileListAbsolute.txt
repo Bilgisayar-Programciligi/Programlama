@@ -226,7 +226,6 @@ C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Progra
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\Eticaret\10 - ETicaretSQLite_Identity_role\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\ETicaret.genruntimeconfig.cache
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\ETicaret.StaticWebAssets.xml
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\ETicaret.exe
 C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\bin\Debug\netcoreapp3.1\ETicaret.deps.json
@@ -676,3 +675,9 @@ C:\Users\stude\source\repos\GitHub\studentberkay\🗃 Organizations\Bilgisayar P
 C:\Users\stude\source\repos\GitHub\studentberkay\🗃 Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\ETicaret.dll
 C:\Users\stude\source\repos\GitHub\studentberkay\🗃 Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\ETicaret.pdb
 C:\Users\stude\source\repos\GitHub\studentberkay\🗃 Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\ETicaret.genruntimeconfig.cache
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\scopedcss\bundle\ETicaret.styles.css
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\Razor\Views\KullaniciIslemleri\Index.cshtml.g.cs
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\Razor\Views\KullaniciIslemleri\Create.cshtml.g.cs
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\Razor\Views\KullaniciIslemleri\KullanicininRolleri.cshtml.g.cs
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\Razor\Views\KullaniciIslemleri\Assign.cshtml.g.cs
+C:\Users\stude\source\repos\GitHub\studentberkay\Organizations\Bilgisayar Programciligi\Programlama\Programlama-3\10 - ETicaretSQLite_Identity_role\obj\Debug\netcoreapp3.1\Razor\Views\KullaniciIslemleri\Info.cshtml.g.cs
