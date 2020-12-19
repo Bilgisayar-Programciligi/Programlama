@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\🗃 Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj": {}
+    "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\🗃 Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj": {
+    "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\🗃 Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj",
+        "projectUniqueName": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj",
         "projectName": "ETicaret",
-        "projectPath": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\🗃 Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj",
+        "projectPath": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\ETicaret.csproj",
         "packagesPath": "C:\\Users\\stude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\🗃 Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\obj\\",
+        "outputPath": "C:\\Users\\stude\\source\\repos\\GitHub\\studentberkay\\Organizations\\Bilgisayar Programciligi\\Programlama\\Programlama-3\\10 - ETicaretSQLite_Identity_role\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -63,7 +65,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.1.4, )"
             }
           },
           "imports": [
@@ -84,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
